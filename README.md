@@ -5,7 +5,7 @@
 # ZenLlamaWBE:DK  
 **ZenLlama Web Build Environment: Dev Kit**
 
-ZenLlamaWBE:DK is an integrated development environment and dev toolkit designed for converting web-based projects into native Android apps. It combines powerful file management, a multi-tab code editor, and a streamlined build system into one lightweight app. Built for developers who want full control, minimalism, and speed—without relying on legacy toolchains like Gradle.
+ZenLlamaWBE:DK is an integrated development environment and dev toolkit designed for converting web-based projects into native Android apps. It combines powerful file management, a multi-tab code editor, and a streamlined build system into one lightweight app. Built for developers who want full control, minimalism, and speed.
 
 ---
 

@@ -31,9 +31,9 @@ ZenLlamaWBE:DK is an integrated development environment and dev toolkit designed
 
 > Interface preview:
 
-| File Manager | Code Editor | Tabbed Editing |
+| File Manager | Code Editor | Music Player |
 |-------------|-------------|----------------|
-| ![file](assets/screenshots/file_manager.png) | ![editor](assets/screenshots/code_editor.png) | ![tabs](assets/screenshots/tabbed_editing.png) |
+| ![file](screenshot1.png) | ![editor](screenshot4.png) | ![tabs](screenshot3.png) |
 
 ---
 

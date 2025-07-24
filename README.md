@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon.png" alt="ZenLlamaWBE Banner" width="100%" />
+  <img src="banner.png" alt="ZenLlamaWBE Banner" width="100%" />
 </p>
 
 # ZenLlamaWBE:DK  

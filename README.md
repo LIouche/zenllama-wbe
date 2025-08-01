@@ -43,6 +43,8 @@ ZenLlamaWBE:DK is an integrated development environment and dev toolkit designed
 |------------|
 | ![preview](preview.gif) |
 
+---
+
 ## 🛠 Built With
 
 - **Language:** Java  

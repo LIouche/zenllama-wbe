@@ -37,6 +37,12 @@ ZenLlamaWBE:DK is an integrated development environment and dev toolkit designed
 
 ---
 
+## 🎥 Preview
+
+| ZenLlamaWBE |
+|------------|
+| ![preview](preview.gif) |
+
 ## 🛠 Built With
 
 - **Language:** Java  
@@ -52,8 +58,6 @@ This project uses third-party open-source libraries:
 
 - **Sora Editor** – [LGPL v3.0](https://www.gnu.org/licenses/lgpl-3.0.html)  
 - **BlurView** – [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)
-
-Please see `assets/licenses/` for full license texts.
 
 ---
 

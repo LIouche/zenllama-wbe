@@ -70,7 +70,7 @@ This project uses third-party open-source libraries:
 ## 📬 Contact
 
 Developer: **Llouch Val Morvelle**  
-Email: [valmorvelle@gmail.com](mailto:Llouche@proton.me)  
+Email: [Llouche@proton.me](mailto:Llouche@proton.me)  
 Location: Philippines
 
 ---

@@ -17,9 +17,6 @@ ZenLlamaWBE:DK is an integrated development environment and dev toolkit designed
 - **Code Editor with Tab Support**  
   Multi-tab editing with modification tracking and automatic backups.
 
-- **Developer-Oriented UX**  
-  No drag-and-drop distractions. Just a clean, fast, coding-first experience.
-
 - **Coming Soon**  
   - Web-to-App Builder (convert HTML/CSS/JS into native Android WebView APKs)  
   - Markdown rendering with live preview  
@@ -31,17 +28,9 @@ ZenLlamaWBE:DK is an integrated development environment and dev toolkit designed
 
 > Interface preview:
 
-| File Manager | Code Editor | Music Player |
+| File Manager | Video Player | Music Player |
 |-------------|-------------|----------------|
-| ![file](screenshot1.png) | ![editor](screenshot4.png) | ![tabs](screenshot3.png) |
-
----
-
-## 🎥 Preview
-
-| ZenLlamaWBE |
-|------------|
-| ![preview](preview.gif) |
+| ![file](homeSS.png) | ![editor](videoSS.png) | ![tabs](musicSS.png) |
 
 ---
 

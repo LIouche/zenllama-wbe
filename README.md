@@ -7,7 +7,7 @@
 
 ZenLlamaWBE:DK is an integrated development environment and dev toolkit designed for converting web-based projects into native Android apps. It combines powerful file management, a multi-tab code editor, and a streamlined build system into one lightweight app. Built for developers who want full control, minimalism, and speed.
 
----
+
 <div style="border: 2px solid #4CAF50; border-radius: 8px; padding: 16px; max-width: 600px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f9f9f9;">
   <h2 style="color: #4CAF50;">🆕 What's New</h2>
   <ul style="list-style-type: none; padding-left: 0;">
@@ -18,7 +18,7 @@ ZenLlamaWBE:DK is an integrated development environment and dev toolkit designed
     <li>📱 <strong>UI:</strong> Improved responsiveness on smaller screens</li>
   </ul>
 </div>
----
+
 
 ---
 

@@ -27,9 +27,13 @@ ZenLlamaWBE:DK is an integrated development environment and dev toolkit designed
 ## 📸 Screenshots
 
 > Interface preview:
+---
 ![file](homeSS.png)
+---
 ![video](videoSS.png)
+---
 ![music](musicSS.png)
+---
 
 ---
 
